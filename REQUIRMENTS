@@ -1,0 +1,4 @@
+## Setup
+Requires `numpy`, `scipy`, and `colorama`.
+pip install numpy scipy colorama
+python brain_radiation_space.py
